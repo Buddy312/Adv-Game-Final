@@ -1,7 +1,7 @@
 ## Welcome to My Game .....
 
-                                                                                                                Anthony Feuchtwanger
-                                                                                                                2ed block Adv Game Des
+                                                                                                         Anthony Feuchtwanger
+                                                                                                         2ed block Adv Game Des
 
 You can use the [editor on GitHub](https://github.com/Buddy312/Adv-Game-Final/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
