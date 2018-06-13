@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\feuc2699\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Final.1368872188.00" t="ExcludeRecursive" />
+    <e p="U:\AdvGame\Final" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Creation" t="Include">
+            <e p="AutoObjectSpawner.cs" t="Include" />
+            <e p="RandomSpawner.cs" t="Include" />
+            <e p="TimedSpawn.cs" t="Include" />
+          </e>
+          <e p="Destruction" t="Include">
+            <e p="CameraKill.cs" t="Include" />
+            <e p="TimedSelfDestruct.cs" t="Include" />
+          </e>
+          <e p="Movement" t="Include">
+            <e p="CameraFollow.cs" t="Include" />
+            <e p="MoonScript.cs" t="Include" />
+            <e p="Move.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Final.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
