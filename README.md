@@ -1,4 +1,5 @@
-## Welcome to My Game .....
+## Welcome to My Game
+## Remember that my game does not build do to a python error and that i sent you the game and it should be maked as a no count     
 
                                                                                             Anthony Feuchtwanger
                                                                                             2ed block Adv Game Des
